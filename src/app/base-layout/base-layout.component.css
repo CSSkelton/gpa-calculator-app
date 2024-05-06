@@ -1,0 +1,16 @@
+/**
+ * title: base-layout.component.css
+ * date: 04.29.2024
+ * author: Cody Skelton
+ * Code sourced from WEB 425 exercise requirements
+*/
+
+.main-container {
+  padding-top: 25px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.logo {
+  margin-top: 5px;
+}
